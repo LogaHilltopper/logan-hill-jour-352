@@ -10,6 +10,7 @@ BODY {
   width:100%;
   max-width: 1200px;
   margin:0 auto;
+  padding-bottom: 50px;
 }
 
 /* banner name at top */
@@ -25,11 +26,12 @@ BODY {
 }
 
 /* job title */
-strong {
+#title {
   color: #33485e;
   text-transform: uppercase;
   text-align: center;
   font-size: 1.5em;
+  font-weight: bold;
 }
 
 /* section titles */
@@ -45,7 +47,8 @@ strong {
   margin-right: 0px;
   width: 70%;
   min-width: 300px;
-  margin: 0 auto;
+
+
 
 }
 
@@ -87,4 +90,29 @@ li {
   text-align: center;
   margin: 0px;
   padding: 0px;
+}
+
+.menu li{
+  display: inline;
+}
+
+#degrees{
+  margin-top: 5px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+
+#do{
+  margin-top: 5px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+
+.top{
+  width: 60%;
+  min-width: 300px;
+  margin: 0 auto;
+  margin-bottom: 30px;
 }
