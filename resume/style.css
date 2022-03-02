@@ -50,19 +50,19 @@ strong {
 }
 
 /* previous jobs */
-h3 {
+.jobtitle {
   font-weight: 600;
   font-size: 2em;
 }
 
 /* organization */
-h4 {
+#organization{
   font-weight: 400;
   font-size: 1.5em;
 }
 
  /* time */
-h5 {
+.date{
   font-weight: 400;
   font-style: italic;
   font-size: 1em;
