@@ -1,3 +1,5 @@
+/* not sure which of these actually took effect */
+
 h1 {
 font-size: 50px;
 font-style: normal;
@@ -7,7 +9,6 @@ font-family: sans-serif: Arial;
 #byline{
   font-style: italic;
 }
-
 
 p {
   font-family: sans-serif: times;
@@ -22,6 +23,15 @@ img {
   margin:0 auto;
   padding-bottom: 50px;
 }
+
+.pquote{
+  height: 100px;
+  width: 100px;
+  font-weight: bold;
+  align-content: center;
+}
+
+/* tried to use similar code to resume project */
 
 .center {
   display: block;
