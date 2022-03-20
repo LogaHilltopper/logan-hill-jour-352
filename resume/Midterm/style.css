@@ -1,0 +1,30 @@
+h1 {
+font-size: 50px;
+font-style: normal;
+font-family: sans-serif: Arial;
+}
+
+#byline{
+  font-style: italic;
+}
+
+
+p {
+  font-family: sans-serif: times;
+}
+img {
+  size: 50%;
+}
+
+#container{
+  width:100%;
+  max-width: 1200px;
+  margin:0 auto;
+  padding-bottom: 50px;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;

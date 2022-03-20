@@ -1,0 +1,48 @@
+Midterm Part One
+
+1.<p> <a href="https://umd.edu" target="_blank"> UMD </a> has the greatest students in the world </p>
+
+2. The Head
+
+3. <html>
+    <head>
+      <title> Basic HTML page </title>
+    </head>
+    <body>
+      <h1> information </h1>
+      <p> This is some basic info about the page </p>
+    </body>
+  </html>
+
+  4. The body
+
+  5. A div tag is a container tag. It is used to create a division in the file whether that is photos, a header or footer or a navbar. By using a div tag, you can create different sections within a document
+
+  6. <div id="content_row"> content </div>
+
+  <div class="headline"> headline </div>
+
+  7. <div class="peaches" id="spaghetti"> foods </div>
+
+  8. p {
+  font-size: 5em;
+  background-color: #FFA500;
+  }
+
+  9. Strong
+
+  10. A media query is designed to make a webpage adaptable to different devices and screen sizes. It makes a webpage more dynamic and allows it to adapt to the device being used to view it.
+
+
+  11. Sans-serif fonts are without serifs, or the lines that appear on the end of letters in serif fonts. Sans-serif is more official while sans-serif can be used to display stylistic elements
+
+  12. #FFCC33
+
+
+  13. .midterm_rule {
+font-size: 1.5em;
+font-style: italic;
+color: red;
+text-transform: uppercase;
+font-weight:400;
+}
