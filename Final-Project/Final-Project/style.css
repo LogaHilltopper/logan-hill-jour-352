@@ -1,0 +1,21 @@
+#byline {
+  font-style: italic;
+}
+
+
+.graphs{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+
+.pquote {
+    float: center;
+    width: 200px;
+    font-weight: bold;
+    padding: 13px;
+}
+
+
+/* Not very in depth, CSS is still a foreign concept to me */
