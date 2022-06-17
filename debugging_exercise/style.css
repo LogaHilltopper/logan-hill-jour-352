@@ -14,8 +14,14 @@ p {
   line-height:180%;
 }
 
+/* splash_photo was missing code */
 .splash_photo {
-
+width:100%;
+max-width:900px;
+margin:0 auto;
+padding-top:30px;
+padding-bottom: 15px;
+height:100%;
 
 }
 .navbar {
@@ -23,13 +29,14 @@ p {
 
 }
 
-
+/* had a dotted line and was 5em instead of 5px */
 .hed {
   margin-top: 1em;
   margin-bottom:1em;
-  border-top: 5em dotted red;
+  text-align: center;
+  border-top: 5px solid red;
   border-bottom: 5px solid red;
-  font-size:3em;
+  font-size:30px;
   font-family: 'Oswald', sans-serif;
   font-weight:700;
 }
@@ -51,6 +58,7 @@ p {
 
 .stack-image {
   width:100%;
+  align-items: center;
   max-width:900px;
   margin:0 auto;
   padding-top:30px;
@@ -58,8 +66,10 @@ p {
   height:100%;
 }
 
+
+/* width of captions was set to 10% */
 .caption {
-  width:10%;
+  width:100%;
   max-width:900px;
   margin:0 auto;
   margin-bottom:30px;
@@ -77,8 +87,11 @@ p {
   margin-top:100px;
 }
 
+
+/* added color to footer */
 .footer p {
   font-family: 'Oswald', sans-serif;
+  color: white;
 
 }
 
@@ -96,9 +109,11 @@ padding-top:1em;
 
 @media(max-width:550px) {
   p {
-    padding-left:20px;
+    padding-left:10px;
     padding-right:10px;
   }
+
+  /* reduced padding-right to 10px */
 
   .chapter-head {
     font-size:1.25em;
