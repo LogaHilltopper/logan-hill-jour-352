@@ -17,6 +17,9 @@ p {
 /* splash_photo was missing code */
 .splash_photo {
 width:100%;
+margin:0 auto;
+margin-left: auto;
+margin-right: auto;
 padding-top:30px;
 padding-bottom: 15px;
 height:100%;
