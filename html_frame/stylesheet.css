@@ -1,8 +1,4 @@
-#text{
-  margin: auto;
-  margin-left: auto;
-  margin-right: auto;
-}
+
 
 h1{
   text-align: center;
@@ -14,4 +10,9 @@ h1{
 
 #chapterhed{
   text-align: left;
+}
+
+#caption{
+  color: gray;
+  font-size: 10px;
 }
