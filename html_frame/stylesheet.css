@@ -19,7 +19,8 @@ h1{
 
 
 .footer {
-  background: #000;
+  background: black;
+  color: white;
   height:100px;
   min-height: 100px;
   padding-top:25px;
