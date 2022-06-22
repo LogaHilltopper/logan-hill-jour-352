@@ -1,17 +1,13 @@
-.h1{
+#text{
   margin: auto;
-  width: 50%;
-  border: 3px;
-  padding: 10px;
-
+  margin-left: auto;
+  margin-right: auto;
 }
 
+h1{
+  text-align: center;
+}
 
-
-.text-muted{
-  margin: auto;
-  width: 50%;
-  border: 3px;
-  padding: 10px;
-
+.container{
+  text-align: center;
 }
