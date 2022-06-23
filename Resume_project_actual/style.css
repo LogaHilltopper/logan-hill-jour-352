@@ -15,9 +15,8 @@
 
 #container{
   text-align: center;
-  background-color: blue;
   margin: 0 auto;
-  width: 900px
+  width: 900px;
 }
 
 h2{
@@ -33,12 +32,16 @@ img{
   text-align: center;
   font-family: Helvetica, sans-serif;
   font-size: 40px;
-  background-color: gray;
+  background-color: Red;
   color: white;
   margin: 0 auto;
-  width: 1000px;
+  text-decoration: underline;
+
+}
 
   #content {
     margin: 0 auto;
     width: 900px;
+    background-color: gray;
+    border: black;
   }
