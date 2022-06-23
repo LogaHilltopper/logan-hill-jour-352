@@ -15,9 +15,30 @@
 
 #container{
   text-align: center;
+  background-color: blue;
+  margin: 0 auto;
+  width: 900px
 }
 
 h2{
   text-align: center;
   text-decoration: underline;
 }
+
+img{
+  width: 50%
+}
+
+#masthead{
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+  font-size: 40px;
+  background-color: gray;
+  color: white;
+  margin: 0 auto;
+  width: 1000px;
+
+  #content {
+    margin: 0 auto;
+    width: 900px;
+  }
