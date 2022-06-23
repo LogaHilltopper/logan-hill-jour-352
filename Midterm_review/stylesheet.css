@@ -9,3 +9,28 @@ font-family: Helvetica, sans-serif;
 font-size: 14px;
 font-style: italic;
 }
+
+blockquote{
+  text-align: left;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+
+h1{
+  font-family: Helvetica, sans-serif;
+  font-size: 24px;
+
+}
+
+p{
+font-family: Georgia, serif;
+font-size: 13px;
+}
+
+header{
+  font-family: Helvetica, sans-serif;
+  font-size: 40px;
+  background-color: black;
+  color: white;
+}
