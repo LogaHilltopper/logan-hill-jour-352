@@ -31,10 +31,11 @@ img{
   text-align: center;
   font-family: Helvetica;
   font-size: 40px;
-  background-color: navy;
+  background-color: red;
   color: white;
   margin: 0 auto;
   width: 900px;
+  text-decoration: underline;
 }
 
   #content {
