@@ -9,5 +9,15 @@
 #intro{
   text-align: center;
   font-weight: bold;
-  font-size: 20px
+  font-size: 16px
+}
+
+
+#container{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+  text-decoration: underline;
 }
