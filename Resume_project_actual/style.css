@@ -29,14 +29,12 @@ img{
 
 #masthead{
   text-align: center;
-  font-family: Helvetica, sans-serif;
+  font-family: Helvetica;
   font-size: 40px;
-  background-color: Red;
+  background-color: navy;
   color: white;
   margin: 0 auto;
-  text-decoration: underline;
   width: 900px;
-
 }
 
   #content {
