@@ -1,4 +1,4 @@
-#byline {
+byline {
   font-style: italic;
 }
 
@@ -15,6 +15,10 @@ font-weight: bolder;
 color: gray;
 font-size: 16px;
 
+}
+
+.container{
+  text-align: center;
 }
 
 
