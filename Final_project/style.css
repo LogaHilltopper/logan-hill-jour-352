@@ -1,5 +1,6 @@
-byline {
+byline{
   font-style: italic;
+  text-align: center;
 }
 
 
@@ -24,6 +25,8 @@ h1{
 
 .container{
   text-align: center;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 
