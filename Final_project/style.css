@@ -14,7 +14,12 @@ blockquote{
 font-weight: bolder;
 color: gray;
 font-size: 16px;
+text-align: center;
 
+}
+
+h1{
+  text-align: center;
 }
 
 .container{
@@ -22,4 +27,8 @@ font-size: 16px;
 }
 
 
-/* Not very in depth, CSS is still a foreign concept to me */
+@media(max-width:650px) {
+  p {
+    padding-left:10px;
+    padding-right:10px;
+  }
